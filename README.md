@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 <!--
-**Robbkim/Robbkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Robbkim/Robbkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --?
 
 Here are some ideas to get you started: 저는 백엔드 개발자 입니다
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
