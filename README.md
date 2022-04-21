@@ -8,8 +8,8 @@
 
 
 ![Robb's GitHub stats](http://github-readme-stats.vercel.app/api?username=Robbkim&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)]
-(http://solved.ac/rlatngus1691/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)
+
 
 
 
