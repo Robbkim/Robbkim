@@ -5,8 +5,11 @@
  
  제 이름은 김영훈    
  저는 백엔드 개발자 입니다
-- 📫 How to reach me: laminate32@gmail.com
 
+
+![Robb's GitHub stats](http://github-readme-stats.vercel.app/api?username=Robbkim&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)]
+(http://solved.ac/rlatngus1691/)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -14,7 +17,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
+- 📫 How to reach me: laminate32@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
